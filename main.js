@@ -1,11 +1,11 @@
 
 // Crie a variável canvas
-var canvas = new fabric.canvas("myCanvas");
+var canvas = new fabric.Canvas("myCanvas");
 //Defina as posições iniciais das imagens da bola e do buraco.
 ball_y = 0;
 ball_x = 0;
 hole_y = 400;
-hole_x = 400;
+hole_x = 800;
 block_image_width = 5;
 block_image_height = 5;
 
